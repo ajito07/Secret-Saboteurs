@@ -1,0 +1,7 @@
+node_modules
+.git
+.codex
+.agents
+sources
+tests
+README.md
